@@ -1,0 +1,4 @@
+@import url("style-normal.css");
+	body, input, select, textarea {
+		font-size: 11pt;
+	}

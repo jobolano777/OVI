@@ -1,0 +1,109 @@
+#banner1 {
+		text-align: center;
+		color: #fff;
+		padding: 0em 4em;
+		margin-bottom: 6em;
+	}
+
+#banner1 a
+{
+	color: rgba(255,255,255,.9);
+}
+
+#banner1 .box-left
+{
+	float: left;
+}
+
+#banner1 .box-right
+{
+	float: right;
+}
+
+#banner1 h2
+{
+	margin: 0em;
+	padding: 0em;
+	font-weight: 400;
+	font-size: 3em;
+	color: #555555;
+}
+.container1
+{
+	margin: 0px auto;
+	width: 1200px;
+	margin: 0em;
+}
+
+	#banner-wrapper1
+{
+	overflow: hidden;
+	padding: 1em;
+	background: #F47920;
+	width: 1200px;
+	height: 210px;
+	margin: 0em;
+}
+
+#wrapper1
+{
+	background: #FFF;
+	width: 1200px;
+	margin: 0em;
+}
+
+#featured-wrapper1
+{
+	overflow: hidden;
+	padding: 0 0 2px 0;
+	background: #FFFFFF;
+	text-align: center;
+}
+
+#featured1
+{
+	overflow: hidden;
+	width: 1200px;
+	margin: 1em 0 0 1em;
+}
+
+.column1,  .column2,  .column3,  .column4
+{
+	width: 265px;
+}
+
+.column1,  .column2
+{
+	float: left;
+	margin-right: 24px;
+}
+
+.column3
+{
+	float: left;
+	margin-right: 24px;
+}
+
+.column4
+{
+	float: left;
+}
+
+	.title1
+{
+	margin-bottom: 3em;
+}
+
+#featured1 .icon
+{
+	position: relative;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background: #F47920;
+	margin: 0px auto 20px auto;
+	line-height:  100px;
+	font-size: 3em;
+	text-align: center;
+	color: #FFF;
+}
